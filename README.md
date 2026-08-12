@@ -1,4 +1,4 @@
-## Hi, I'm Nahom 👋  
+# Hi, I'm Nahom 👋  
 
 Computer Science student focused on Software Engineering.
 
