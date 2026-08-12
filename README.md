@@ -1,8 +1,8 @@
-Hi there 👋  
+# Hi, I'm Nahom 👋  
 
-I'm Nahom, a computer science undergraduate studnet.
+Computer Science student focused on Software Engineering.
 
-I have a strong interest in software development and problem-solving.
+Interested in building software, solving problems, and continuously developing my technical skills.
 
 I enjoy building projects that help me understand how real-world systems work and how to design clean code.
 
