@@ -1,6 +1,6 @@
 # Hi, I'm Nahom 👋  
 
-Computer Science student focused on Software Engineering.
+Computer Science Student @ Towson University | Aspiring Software Engineer
 
 Interested in building software, solving problems, and continuously developing my technical skills.
 
