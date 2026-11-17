@@ -68,14 +68,6 @@ Retrieval-Augmented Generation (RAG) · Agentic AI Systems · Prompt Engineering
 
 ---
 
-### 👨‍🏫 Experience
-
-**Python Class Assistant | Debre Selam Medhane Alem Eritrean Church**
-
-- Mentored 30+ high school students over a six-week summer program, teaching Python fundamentals, guiding coding exercises, and helping troubleshoot and debug programming errors.
-
----
-
 ### 📚 Currently Learning
 
 - Software Engineering principles and design patterns
